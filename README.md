@@ -1,2 +1,1 @@
-# RTwithCpp
-Monte Carlo path tracing Renderer Implemented with C++
+#Monte Carlo path tracing Renderer Implemented with C++
